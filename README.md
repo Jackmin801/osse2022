@@ -19,7 +19,7 @@ Use Ctrl+C if you wish to stop the server.
 python3 -m http.server
 ```
 
-Start the server on port 80 (default for HTTP Port).
+Start the server on port 80 (default HTTP Port).
 Use Ctrl+C if you wish to stop the server.
 ```
 python3 -m http.server -p 80
